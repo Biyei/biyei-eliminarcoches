@@ -1,6 +1,6 @@
 --------------------------------------
-------Created By Whit3Xlightning------
---https://github.com/Whit3XLightning--
+------Created By Biyei------
+--https://github.com/biyei--
 --------------------------------------
 
 fx_version 'bodacious'
