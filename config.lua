@@ -7,10 +7,10 @@ Config = {}
 
 Config = {
     commandName = "eliminarcoches",
-    -- This is the command that you will type into chat to execute the script.
+    -- Este es el comando que escribirás en el chat para ejecutar el script.
 
     restricCommand = true
-    -- Setting this to false will allow anyone in the server to use the command. 
-    -- If you set it to true you will need to add a ace perm to allow people to use it.
-    -- Such as add_ace [GROUP] command.[commandName] allow
+    -- Si lo pones en false permitirás que cualquiera en el servidor use el comando. 
+    -- Si lo pones en true tendrás que añadir un ace perm para permitir que la gente lo use.
+    -- Por ejemplo add_ace [GROUP] command.[commandName] allow
 }
